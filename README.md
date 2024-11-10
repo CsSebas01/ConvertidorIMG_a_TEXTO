@@ -1,0 +1,1 @@
+# ConvertidorIMG_a_TEXTO
